@@ -1,7 +1,7 @@
 clear all
 set more off
 
-cd "C:\Users\ARON SANTA CRUZ\Documents\ceplan\documentos\consolidación\indicadores PEDN bucle"
+cd "ruta"
 
 set obs 0
 gen XXX=""
